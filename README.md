@@ -28,19 +28,18 @@ projects done during university education
 
 ## **🚀 Projects**  
 
-### **1. [Project Name]**  
+### **1. battleship**  
 📌 **Description:** counsel based game of minesweep.  
 🛠️ **Technologies:** java code using eclipse IED.  
-🔗 **[GitHub Repo](#)**  
 
-### **2. [Another Project Name]**  
+### **2. checkers**  
 📌 **Description:** gui checkers game   
 🛠️ **Technologies:** java gui game using eclipse.  
-🔗 **[GitHub Repo](#)**  
+🔗 **checkers**  
 
 ---
 
-## **📫 Let's Connect!**  
+## **📫 Let's Connect!** for more project contact me
 
 📧 **Email:** nyandanotl@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/nyandano-tshoshonge-204660332?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKrIK3bI2QWaMb0cRM2L%2BSQ%3D%3D 
